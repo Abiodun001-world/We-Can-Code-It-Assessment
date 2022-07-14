@@ -1,3 +1,3 @@
 ﻿# We-Can-Code-It-Assessment
-Fundamental concept in java
+Fundamental concepts in java
 Java Programming Languange 
